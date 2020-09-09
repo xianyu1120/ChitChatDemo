@@ -1,0 +1,33 @@
+ERROR2020/09/09 15:34:03 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot find user
+ERROR2020/09/09 15:35:17 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot find user
+ERROR2020/09/09 15:59:32 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot find user
+ERROR2020/09/09 16:00:01 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot create user
+ERROR2020/09/09 16:00:13 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot find user
+ERROR2020/09/09 16:00:20 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot find user
+ERROR2020/09/09 16:00:42 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot create user
+ERROR2020/09/09 16:01:58 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot create user
+ERROR2020/09/09 16:07:31 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot create user
+ERROR2020/09/09 16:14:45 util.go:93: dial tcp 0.0.0.1:3306: connectex: A socket operation was attempted to an unreachable network. Cannot create user
+ERROR2020/09/09 19:27:33 util.go:93: Error 1062: Duplicate entry '1623694836@qq.com' for key 'email' Cannot create user
+ERROR2020/09/09 19:27:39 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 19:28:18 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 19:28:49 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 19:29:21 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 19:30:06 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 19:49:42 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 20:06:21 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 20:11:32 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 20:11:39 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 20:13:11 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 21:28:38 util.go:93: sql: no rows in result set Cannot create session
+ERROR2020/09/09 22:09:36 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 22:10:05 util.go:93: sql: no rows in result set Cannt create post
+ERROR2020/09/09 22:10:12 util.go:93: sql: no rows in result set Cannt create post
+ERROR2020/09/09 22:10:34 util.go:93: sql: no rows in result set Cannt create post
+ERROR2020/09/09 22:11:07 util.go:93: sql: no rows in result set Cannot create thread
+WARNING2020/09/09 22:11:15 util.go:98: <nil> Failed to get cookie
+ERROR2020/09/09 22:11:37 util.go:93: sql: no rows in result set Cannt create post
+WARNING2020/09/09 22:21:12 util.go:98: <nil> Failed to get cookie
+ERROR2020/09/09 22:22:18 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 22:22:26 util.go:93: sql: no rows in result set Cannot find user
+ERROR2020/09/09 22:22:51 util.go:93: sql: no rows in result set Cannot create thread

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b8e117d-f7fc-4ae4-bbac-3d4dac8d3db2" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h7K6IQORyaUuoAsXP6OqUE4APt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\demo\github.com\xianyu1120\ChitChat" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 测试.ChitChat/data 中的 TestSession_User">
+    <configuration name="ChitChat/data 中的 TestSession_User" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ChitChat" />
+      <working_directory value="$PROJECT_DIR$/data" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ChitChat/data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSession_User\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChitChat/data 中的 TestUser_Create (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ChitChat" />
+      <working_directory value="$PROJECT_DIR$/data" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ChitChat/data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUser_Create\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChitChat/data 中的 TestUser_CreateSession" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ChitChat" />
+      <working_directory value="$PROJECT_DIR$/data" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ChitChat/data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUser_CreateSession\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChitChat/data 中的 TestUser_Session" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ChitChat" />
+      <working_directory value="$PROJECT_DIR$/data" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ChitChat/data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestUser_Session\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChitChat/data 中的 Test_setUp" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ChitChat" />
+      <working_directory value="$PROJECT_DIR$/data" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ChitChat/data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_setUp\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 测试.ChitChat/data 中的 TestSession_User" />
+        <item itemvalue="Go 测试.ChitChat/data 中的 TestUser_Session" />
+        <item itemvalue="Go 测试.ChitChat/data 中的 TestUser_CreateSession" />
+        <item itemvalue="Go 测试.ChitChat/data 中的 TestUser_Create (2)" />
+        <item itemvalue="Go 测试.ChitChat/data 中的 Test_setUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="247" key="#Go_模块" timestamp="1599356585090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="247" key="#Go_模块/0.0.1536.824@0.0.1536.824" timestamp="1599356585090" />
+    <state x="722" y="88" key="#Plugins" timestamp="1599443115241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="88" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1599443115241" />
+    <state x="510" y="259" key="#SQL_方言" timestamp="1599444378968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="259" key="#SQL_方言/0.0.1536.824@0.0.1536.824" timestamp="1599444378968" />
+    <state x="515" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599441076308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599441076308" />
+    <state x="963" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599439332667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="963" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599439332667" />
+    <state x="681" y="273" key="EnvironmentVariablesDialog" timestamp="1599356562824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="273" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599356562824" />
+    <state x="703" y="178" key="FileChooserDialogImpl" timestamp="1599663144525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="703" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599663144525" />
+    <state x="654" y="310" key="Github.ShareDialog" timestamp="1599663133052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1599663133052" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1599663158683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599663158683" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1599663158682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599663158682" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1599663158682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599663158682" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1599663158682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599663158682" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599655374662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599655374662" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599655374662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599655374662" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599655374662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599655374662" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599655374662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599655374662" />
+    <state width="146" height="477" key="HiddenNamespacesPopup" timestamp="1599440970328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="146" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1599440970328" />
+    <state x="409" y="74" key="SettingsEditor" timestamp="1599614929370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599614929370" />
+    <state x="862" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1599638832922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="862" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599638832922" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_UserCreate__2_.out" NAME="ChitChat/data 中的 Test_UserCreate (2) Coverage Results" MODIFIED="1599640886654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_UserCreate__5_.out" NAME="ChitChat/data 中的 Test_UserCreate (5) Coverage Results" MODIFIED="1599641207716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__TestUser_Create__2_.out" NAME="ChitChat/data 中的 TestUser_Create (2) Coverage Results" MODIFIED="1599661101069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_Thread__1_.out" NAME="ChitChat/data 中的 Test_Thread (1) Coverage Results" MODIFIED="1599652650992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_UserCreate__1_.out" NAME="ChitChat/data 中的 Test_UserCreate (1) Coverage Results" MODIFIED="1599640297584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_UserCreate__4_.out" NAME="ChitChat/data 中的 Test_UserCreate (4) Coverage Results" MODIFIED="1599641049658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_UserCreate.out" NAME="ChitChat/data 中的 Test_UserCreate Coverage Results" MODIFIED="1599641594382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__Test_setUp.out" NAME="ChitChat/data 中的 Test_setUp Coverage Results" MODIFIED="1599661090305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__TestUser_Session.out" NAME="ChitChat/data 中的 TestUser_Session Coverage Results" MODIFIED="1599661122723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$gobench_ChitChat_data.out" NAME="gobench ChitChat/data Coverage Results" MODIFIED="1599660903307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__TestUser_Create.out" NAME="ChitChat/data 中的 TestUser_Create Coverage Results" MODIFIED="1599661068417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__TestSession_User.out" NAME="ChitChat/data 中的 TestSession_User Coverage Results" MODIFIED="1599661135205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$go_test_ChitChat_data.out" NAME="go test ChitChat/data Coverage Results" MODIFIED="1599660866348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__TestUser_Create__1_.out" NAME="ChitChat/data 中的 TestUser_Create (1) Coverage Results" MODIFIED="1599661075596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$user_test_go.out" NAME="user_test.go Coverage Results" MODIFIED="1599660980213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChitChat$ChitChat_data__TestUser_CreateSession.out" NAME="ChitChat/data 中的 TestUser_CreateSession Coverage Results" MODIFIED="1599661114212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
